@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Data Engineering Expert
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+As a Data Engineering Expert I apply my technical expertise and business acumen to deliver value to clients and stakeholders across various domains and industries. I work on enterprise data lake and data warehouse solutions on cloud platforms, such as AWS and Azure, using data ingestion and integration tools, such as AWS Glue, Snaplogic, Talend, Informatica PowerCenter, and Datastage.
+
+With over 10 years of experience in data engineering, I have developed a strong foundation in data architecture, data strategy, data management, and advanced analytics. I have led and collaborated with cross-functional teams in complex and multi-national organizations, demonstrating effective communication, influence, and leadership skills. I have a Bachelor of Technology (B.Tech.) in Electrical, Electronics and Communications Engineering from Lovely Professional University.
 
 ## Header 2
 
